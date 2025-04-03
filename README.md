@@ -57,7 +57,7 @@ The script follows a step-by-step approach:
 *)The final PDF file is saved and can be shared or printed.
 
 output:
-
+![Image](https://github.com/user-attachments/assets/4459a78d-0019-4f59-86fa-1006c1942039)
 
 
 
